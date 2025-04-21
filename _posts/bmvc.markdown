@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Unsupervised Image Denoising with Frequency Domain Knowledge"
-date: 2023-08-28 22:21:59 +00:00
+date: 2021-11-29 22:21:59 +00:00
 image: /images/bmvc.png
 categories: research
 author: "Donggon Jang"

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "MMR: A Large-scale Benchmark Dataset for Multi-target and Multi-granularity Reasoning Segmentation"
-date: 2023-08-28 22:21:59 +00:00
-image: /images/tip.png
+date: 2025-04-24 22:21:59 +00:00
+image: /images/mmr.png
 categories: research
 author: "Donggon Jang"
 authors: "<strong>Donggon Jang*</strong>, Yucheol Cho*, Suin Lee, Taehyeon Kim, Daeshik Kim (* Equal Contribution)"

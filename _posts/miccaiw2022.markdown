@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Accurate hippocampus segmentation based on self-supervised learning with fewer labeled data"
-date: 2023-08-28 22:21:59 +00:00
+date: 2022-09-18 22:21:59 +00:00
 image: /images/miccai2022.png
 categories: research
 author: "Donggon Jang"
