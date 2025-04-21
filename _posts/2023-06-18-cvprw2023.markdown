@@ -2,7 +2,7 @@
 layout: post
 title: "Temporally averaged regression for semi-supervised low-light image enhancement"
 date: 2023-06-18 22:21:59 +00:00
-image: /images/cvprw2023.png
+image: /images/cpvrw2023.png
 categories: research
 author: "Donggon Jang"
 authors: "Sunhyeok Lee, <strong>Donggon Jang</strong>, Dae-Shik Kim"
