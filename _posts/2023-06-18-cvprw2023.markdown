@@ -6,6 +6,6 @@ image: /images/cpvrw2023.png
 categories: research
 author: "Donggon Jang"
 authors: "Sunhyeok Lee, <strong>Donggon Jang</strong>, Dae-Shik Kim"
-venue: "CVPR Workshops (UG2 Prize Challenge), 2023"
+venue: "CVPR Workshops (UG2 Prize Challenge)"
 arxiv: https://openaccess.thecvf.com/content/CVPR2023W/UG2/papers/Lee_Temporally_Averaged_Regression_for_Semi-Supervised_Low-Light_Image_Enhancement_CVPRW_2023_paper.pdf
 ---

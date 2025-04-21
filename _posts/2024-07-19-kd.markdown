@@ -5,8 +5,8 @@ date: 2024-07-19 22:21:59 +00:00
 image: /images/kd.png
 categories: research
 author: "Donggon Jang"
-authors: "Seonghak Kim, Gyeongdo Ham, Suin Lee, <strong>Donggon Jang</strong> Dae-Shik Kim."
-venue: "Knowledge-Based Systems, 2024"
+authors: "Seonghak Kim, Gyeongdo Ham, Suin Lee, <strong>Donggon Jang</strong>, Dae-Shik Kim."
+venue: "Knowledge-Based Systems"
 arxiv: https://www.sciencedirect.com/science/article/abs/pii/S0950705124005458
 code: https://github.com/Seonghak35/EnergyKD
 ---

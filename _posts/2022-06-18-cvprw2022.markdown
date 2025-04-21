@@ -6,7 +6,7 @@ image: /images/cvprw2022.png
 categories: research
 author: "Donggon Jang"
 authors: "<strong>Donggon Jang*</strong>, Sanghyeok Son*, Dae-Shik Kim (* Equal Contribution)"
-venue: "CVPR Workshops (The Art of Robustness), 2022"
+venue: "CVPR Workshops (The Art of Robustness)"
 arxiv: https://openaccess.thecvf.com/content/CVPR2022W/ArtOfRobust/papers/Jang_Strengthening_the_Transferability_of_Adversarial_Examples_Using_Advanced_Looking_Ahead_CVPRW_2022_paper.pdf
 code: https://github.com/jdg900/LI-SC-FGSM
 ---

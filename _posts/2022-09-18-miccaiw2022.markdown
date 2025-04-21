@@ -5,7 +5,7 @@ date: 2022-09-18 22:21:59 +00:00
 image: /images/micaai2022.png
 categories: research
 author: "Donggon Jang"
-authors: "Kassymzhomart Kunanbayev, <strong>Donggon Jang*</strong>, Woojin Jeong, Nahyun Kim, Dae-Shik Kim"
-venue: "MICCAI Workshops (Machine Learning on Clinical Neuroimaging), 2022"
+authors: "Kassymzhomart Kunanbayev, <strong>Donggon Jang</strong>, Woojin Jeong, Nahyun Kim, Dae-Shik Kim"
+venue: "MICCAI Workshops (Machine Learning on Clinical Neuroimaging)"
 arxiv: https://link.springer.com/chapter/10.1007/978-3-031-17899-3_5
 ---

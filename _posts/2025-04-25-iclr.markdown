@@ -6,7 +6,7 @@ image: /images/mmr.png
 categories: research
 author: "Donggon Jang"
 authors: "<strong>Donggon Jang*</strong>, Yucheol Cho*, Suin Lee, Taehyeon Kim, Daeshik Kim (* Equal Contribution)"
-venue: "ICLR, 2025"
+venue: "ICLR"
 arxiv: https://arxiv.org/pdf/2503.13881
 code: https://github.com/jdg900/MMR
 ---
