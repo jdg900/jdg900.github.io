@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Unsupervised Image Denoising with Frequency Domain Knowledge"
+date: 2023-08-28 22:21:59 +00:00
+image: /images/bmvc.png
+categories: research
+author: "Donggon Jang"
+authors: "Nahyun Kim*, <strong>Donggon Jang*</strong>, Sunhyeok Lee, Bomi Kim, Dae-Shik Kim. (* Equal Contribution)"
+venue: "BMVC (Oral), 2021"
+arxiv: https://arxiv.org/pdf/2111.14362
+code: https://github.com/jdg900/UID-FDK
+---

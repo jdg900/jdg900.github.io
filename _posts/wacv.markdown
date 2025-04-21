@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Learning Color Representations for Low-Light Image Enhancement"
+date: 2023-08-28 22:21:59 +00:00
+image: /images/wacv.png
+categories: research
+author: "Donggon Jang"
+authors: "Bomi Kim, Sunhyeok Lee, Nahyun Kim, <strong>Donggon Jang</strong>, Dae-Shik Kim"
+venue: "WACV, 2022"
+arxiv: https://openaccess.thecvf.com/content/WACV2022/papers/Kim_Learning_Color_Representations_for_Low-Light_Image_Enhancement_WACV_2022_paper.pdf
+---
